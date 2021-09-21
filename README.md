@@ -6,4 +6,4 @@
 
 ### LICENSING & CREDITS:
 
-TestMod is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/LavaGang/TestMod/blob/master/LICENSE.md) for the full License.
+Uhhhh I dunno, I might pick a more formal license for this later? For the time being, do whtever, I don't mind. Just don't be blatantly evil.
